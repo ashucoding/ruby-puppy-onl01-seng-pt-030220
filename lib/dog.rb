@@ -24,4 +24,3 @@ def self.print_all
 		
 	end
 	end
-	end
