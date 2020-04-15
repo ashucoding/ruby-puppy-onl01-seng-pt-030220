@@ -13,6 +13,10 @@ def self.all
   @@all
 end
 
+def self.save
+  @@all.save
+end
+
 	def self.clear_all
 		@@all.clear
 	end
